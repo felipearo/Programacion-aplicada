@@ -1,1 +1,20 @@
+"""
+sensors =  {"living room": 21, "kitchen": 23, "bedroom": 20, "pantry": 22}
+num_cameras = {"backyard": 6,  "garage": 2, "driveway": 1}
+
+print(sensors)
+print("camaras",num_cameras)
+translations = {"mountain":	"orod", "bread":	"bass", "friend":	"mellon", "horse":	"roch" }
+print(translations)
+children = {"von Trapp": ["Johannes", "Rosmarie", "Eleonore"] , "Corleone": ["Sonny", "Fredo", "Michael"],1021666155:627000}
+print(children)
+my_empty_dictionary={}
+print(my_empty_dictionary)
+"""
+animals_in_zoo={"zebras":8,"monkeys":12}
+print(animals_in_zoo)
+animals_in_zoo["dinosaurs"]=0
+print(animals_in_zoo)
+animals_in_zoo={"dinosaurs":0}
+print(animals_in_zoo)
 
